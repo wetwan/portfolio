@@ -503,21 +503,18 @@ form button{
     width: 90%;
     height: 800px;
     margin: 50px auto;
-    border: 1px solid;
 }
 .skill-card{
     width: 90%;
     height: 90%;
     margin: 20px auto;
     color: #f725a0;
-    border: 1px solid;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .skill-card .cards{
-    border: 1px solid;
     width: 350px;
     height: 300px;
     margin: 10px;
@@ -561,7 +558,6 @@ form button{
 
 .skill-cards h4{
     padding:10px ;
-    border: 1px solid;
     margin: 10px;
     height: 50px;
     font-size: 20px;
@@ -834,14 +830,12 @@ form button{
         width: 90%;
         height: 800px;
         margin: 50px auto;
-        border: 1px solid;
     }
     .skill-card{
         width: 90%;
         height: 90%;
         margin: 20px auto;
         color: #f725a0;
-        border: 1px solid;
         display: flex;
         align-items: center;
      align-items: center;
@@ -849,7 +843,6 @@ form button{
        
     }
     .skill-card .cards{
-        border: 1px solid;
         width: 200px;
         height: 200px;
         margin: 10px;
@@ -893,7 +886,6 @@ form button{
     
     .skill-cards h4{
         padding:10px ;
-        border: 1px solid;
         margin: 10px;
         height: 50px;
         font-size: 20px;
@@ -1217,14 +1209,12 @@ form button{
     width: 90%;
     height: 800px;
     margin: 50px auto;
-    border: 1px solid;
 }
 .skill-card{
     width: 90%;
     height: 90%;
     margin: 20px auto;
     color: #f725a0;
-    border: 1px solid;
     display: flex;
     align-items: center;
  align-items: center;
@@ -1233,7 +1223,6 @@ form button{
 }
 .skill-card .cards{
    
-    border: 1px solid;
     width: 200px;
     height: 200px;
     margin: 10px auto;
@@ -1277,7 +1266,6 @@ form button{
 
 .skill-cards h4{
     padding:10px ;
-    border: 1px solid;
     margin: 10px;
     height: 50px;
     font-size: 20px;
