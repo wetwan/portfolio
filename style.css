@@ -497,6 +497,16 @@ form button{
     background-size: cover;
     
 }
+.cv{
+    background: #f2f2f2;
+    height: auto;
+    width: 100vw;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    
+}
 
 .skill-cards{
    
@@ -531,11 +541,11 @@ form button{
   
     transition: all 0.5s ease-in-out;
     background: white;
-    width: 200px;
-    height: 50px;
+    width: 300px ;
+    height: 80px;
     text-align: center;
     line-height: 3;
-    left: 70px;
+    left: 30px;
     border-radius:20px ;
   
 
@@ -860,10 +870,10 @@ form button{
         transition: all 0.5s ease-in-out;
         background: white;
         width: 200px;
-        height: 50px;
+        height: fit-content;
         text-align: center;
         line-height: 3;
-        left: 70px;
+        left: 50px;
         border-radius:20px ;
       
     
@@ -1240,11 +1250,11 @@ form button{
   
     transition: all 0.5s ease-in-out;
     background: white;
-    width: 150px;
+    width: fit-content;
     height: 50px;
     text-align: center;
     line-height: 3;
-    left: 0;
+    left: 20px;
     border-radius:20px ;
   
 
